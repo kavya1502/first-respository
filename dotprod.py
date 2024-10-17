@@ -6,3 +6,4 @@ b = 7
  
 # Calculating dot product using dot()
 print(np.dot(a, b))
+print("hello")
